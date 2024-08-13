@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "2d14",
+      "title": "Healthier living",
+      "body": "Workouts and Diet are important.",
+      "author": "Saylor"
+    },
+    {
+      "id": "ef12",
+      "title": "Time Management",
+      "body": "Prioritization and Scheduling are key to this effort.",
+      "author": "Thomas"
+    },
+    {
+      "id": "5ad3",
+      "title": "Reading is important",
+      "body": "Training your mind with new information is always beneficial.",
+      "author": "Saylor"
+    },
+    {
+      "id": "2cfc",
+      "title": "Helping others",
+      "body": "The altruistic benefits help others and strengthens relationships.",
+      "author": "Thomas"
+    }
+  ]
+}
